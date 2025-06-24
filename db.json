@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "product_name": "Doson",
+      "product_price": "499",
+      "product_stock": "145",
+      "description": " Doson A delicate floral masterpiece, inspired by the exotic elegance of white blossoms and fresh botanical notes.Wrap your car in an exquisite, airy scent that radiates sophistication. A fragrance designed for those who appreciate grace and refinement.",
+      "product_image": {
+        "name": "product-a.jpg",
+        "type": "image/jpeg",
+        "url": "https://www.shop.detailingdevils.com/the-fumes/wp-content/uploads/2023/10/Doson-copy.webp"
+      },
+      "godown": ["Surat", "Navsari"]
+    },
+    {
+      "id": "2",
+      "product_name": "Super Wipes",
+      "product_price": "299",
+      "product_stock": "256",
+      "description": "Say goodbye to stubborn dirt, bug splatters, and dust with Super Wipes – the premium, multipurpose cleaning wipes designed for Indian cars and driving conditions.",
+      
+      
+      "product_image": {
+        "name": "product-b.jpg",
+        "type": "image/jpeg",
+        "url": "https://www.shop.detailingdevils.com/super-wipes/wp-content/uploads/2025/03/super-wipes-main-1200x1200.webp"
+      },
+      "godown": ["Surat", "Navsari"]
+    }
+  ]
+}
